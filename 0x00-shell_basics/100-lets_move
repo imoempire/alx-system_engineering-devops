@@ -1,2 +1,150 @@
-#!/bin/bash
+#s i for insert mode then type the two lines below)
+	
+	#!/bin/bash
+	
+	mv [[:upper:]]* /tmp/u
+	
+	After click ESC and type :wq           Enter
+	
+	chmod u+x 100-lets_move              Enter
+	
+	cd ..                             Enter
+	
+	git add .
+	
+	git commit -m "(please put your own message)
+	
+	git push 
+	
+	
+	
+	TASK 16
+	
+	make sure you are in alx-system_engineering-devops
+	
+	If you are not type cd alx-system_engineering-devops
+	
+	cd 0x00-shell_basics               Enter
+	
+	touch 101-clean_emacs           Enter
+	
+	vi 101-clean_emacs                  Enter
+	
+	(press i for insert mode then type the two lines below)
+	
+	#!/bin/bash
+	
+	rm *~
+	
+	After click ESC and type :wq           Enter
+	
+	chmod u+x 101-clean_emacs          Enter
+	
+	cd ..                             Enter
+	
+	git add .
+	
+	git commit -m "(please put your own message)
+	
+	git push 
+	
+	
+	
+	TASK 17
+	
+	make sure you are in alx-system_engineering-devops
+	
+	If you are not type cd alx-system_engineering-devops
+	
+	cd 0x00-shell_basics               Enter
+	
+	touch 102-tree                           Enter
+	
+	vi 102-tree                                  Enter
+	
+	(press i for insert mode then type the two lines below)
+	
+	#!/bin/bash
+	
+	mkdir -p welcome/to/school
+	
+	After click ESC and type :wq           Enter
+	
+	chmod u+x 102-tree                         Enter
+	
+	cd ..                             Enter
+	
+	git add .
+	
+	git commit -m "(please put your own message)
+	
+	git push 
+	
+	
+	
+	
+	
+	TASK 18
+	
+	make sure you are in alx-system_engineering-devops
+	
+	If you are not type cd alx-system_engineering-devops
+	
+	cd 0x00-shell_basics               Enter
+	
+	touch 103-commas                   Enter
+	
+	vi 103-commas                          Enter
+	
+	(press i for insert mode then type the two lines below)
+	
+	#!/bin/bash
+	
+	ls -amp | sort -d
+	
+	After click ESC and type :wq           Enter
+	
+	chmod u+x 103-commas                 Enter
+	
+	cd ..                             Enter
+	
+	git add .
+	
+	git commit -m "(please put your own message)
+	
+	git push 
+	
+	
+	
+	Task 19
+	
+	make sure you are in alx-system_engineering-devops
+	
+	If you are not type cd alx-system_engineering-devops
+	
+	cd 0x00-shell_basics               Enter
+	
+	touch school.mgc                     Enter
+	
+	vi school.mgc                            Enter
+	
+	(press i for insert mode then type the two lines below)
+	
+	0(press tab key once) string SCHOOL School data
+	
+	!:mime School
+	
+	After click ESC and type :wq            Enter
+	
+	file -C -m school.mgc                       Enter
+	
+	chmod u+x school.mgc                    Enter
+	
+	cd ..                             Enter
+	
+	git add .
+	
+	git commit -m "(please put your own message)
+	
+	git push!/bin/bash
 mv [[:upper:]]* /tmp/u
